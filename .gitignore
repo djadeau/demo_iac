@@ -133,4 +133,5 @@ dmypy.json
 ssl
 
 # Terraform
-.terraform
+.terraform/
+.terraform*
